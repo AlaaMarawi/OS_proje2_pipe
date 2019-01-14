@@ -13,7 +13,7 @@ E : simple shell using fork() , exec(), pipe structure to compute determinant of
 <i>in Terminal : </br>
   >>makeFile (to compile c files) </br>
   >>./determinant3x3 (to run main prog) </br>
-  >>enter matrix elements by order 1 to 9 </br>
+  >>enter matrix elements by order 1 to 9 (negative numbers arw allowed) </br>
   >>new determinant computing? (Y/N) </br>
   +screenshots in the<a href= "https://github.com/AlaaMarawi/isletim_sistemleri_proje2_pipe/blob/master/Rapor.pdf"> report</a>.
 </i>
